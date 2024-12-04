@@ -1,0 +1,37 @@
+Le Van A
+123 Main Street, City, State, Zip
+123-456-7890
+email@example.com
+
+Objective:
+Detail-oriented Quality Assurance Engineer with 4+ years of experience in manual and automated testing. Skilled in test planning, test case design, and execution. Proficient in using various testing tools and technologies. Seeking to utilize my expertise in ensuring the quality and reliability of software products.
+
+Education:
+Bachelor of Science in Computer Science
+University XYZ, City, State
+Graduated: May 20XX
+
+Skills:
+- Strong understanding of software testing concepts and methodologies
+- Proficient in manual and automated testing techniques
+- Experience with test automation tools such as Selenium WebDriver, JUnit, and TestNG
+- Knowledgeable in programming languages like Java and Python for test automation scripting
+- Familiarity with bug tracking systems like JIRA for defect management
+- Ability to create comprehensive test plans and test cases
+- Excellent problem-solving and analytical skills
+- Effective communication and collaboration abilities
+
+Experience:
+QA Engineer
+ABC Software Company, City, State
+June 20XX - Present
+- Developed and executed test cases for web and mobile applications, ensuring thorough coverage of all functionalities
+- Automated repetitive test cases using Selenium WebDriver and integrated them into the continuous integration pipeline
+- Collaborated closely with development teams to identify and resolve defects in a timely manner
+- Conducted regression testing to ensure the stability of software releases
+- Participated in sprint planning meetings and provided input on testing effort estimation
+
+Software Tester
+DEF Tech Solutions, City, State
+January 20XX - May 20XX
+- Performed manual testing of software products, identifying and reporting defects

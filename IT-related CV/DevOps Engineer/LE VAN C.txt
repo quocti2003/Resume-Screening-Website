@@ -1,0 +1,31 @@
+LE VAN C
+789 Elm Street, City, State, Zip
+Phone: 345-678-9012
+Email: van.c@example.com
+
+Objective:
+Results-driven DevOps Engineer with a passion for automation, cloud computing, and DevOps practices. Experienced in building and managing scalable, secure, and highly available systems. Seeking challenging opportunities to contribute my expertise to cutting-edge projects.
+
+Education:
+Bachelor of Science in Computer Engineering
+University XYZ, City, State
+Graduated: May 20XX
+
+Skills:
+- Linux server administration
+- Configuration management (Ansible, Chef)
+- Containerization (Docker, Kubernetes)
+- Cloud platforms (AWS, Azure)
+- CI/CD tools (Jenkins, GitLab CI)
+- Infrastructure as code (Terraform)
+- Version control (Git)
+- Scripting (Bash, Python)
+
+Experience:
+DevOps Engineer
+Tech Startup MNO, City, State
+June 20XX - Present
+- Implemented infrastructure automation using Ansible playbooks
+- Managed Kubernetes clusters for container orchestration
+- Developed CI/CD pipelines for automated software delivery
+- Monitored and optimized system performance and reliability

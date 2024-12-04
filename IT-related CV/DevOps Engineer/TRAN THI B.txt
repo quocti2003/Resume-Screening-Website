@@ -1,0 +1,31 @@
+TRAN THI B
+456 Oak Avenue, City, State, Zip
+Phone: 234-567-8901
+Email: thi.b@example.com
+
+Objective:
+Detail-oriented DevOps Engineer with expertise in automation, infrastructure management, and cloud technologies. Skilled in designing and implementing scalable, resilient, and secure systems. Seeking a challenging role to leverage my skills and contribute to the success of innovative projects.
+
+Education:
+Master of Science in Information Technology
+University UVW, City, State
+Graduated: May 20XX
+
+Skills:
+- Linux system administration
+- Configuration management (Puppet, Chef)
+- Containerization (Docker, Kubernetes)
+- Cloud platforms (AWS, Azure, GCP)
+- CI/CD tools (Jenkins, Travis CI)
+- Infrastructure as code (Terraform)
+- Version control (Git)
+- Scripting (Shell, Python)
+
+Experience:
+DevOps Engineer
+Tech Company ABC, City, State
+June 20XX - Present
+- Automated infrastructure provisioning and deployment with Terraform
+- Managed Docker containers in Kubernetes clusters for microservices architecture
+- Implemented CI/CD pipelines for continuous integration and delivery
+- Maintained and monitored cloud infrastructure on AWS and Azure

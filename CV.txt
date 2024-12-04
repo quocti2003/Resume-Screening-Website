@@ -1,0 +1,100 @@
+TR ỊNH HOÀNG AN 
+SKILLS
+Python
+C++
+HTML
+CSS
+Database Management
+ (My SQL, Fire-Base, Firestore Database)
+Data Analyst0586471106
+861/48/11A - Trần Xuân Soạn
+Quận 7 trinhan06032003@gmail.comCONTACTI’m proactive 3rd-year student on the verge of graduation, seeking an
+internship opportunity within a dynamic company known for its
+positive work environment. Eager to apply academic knowledge and
+acquire practical experience to foster personal and professional
+growth. Aspiring to contribute effectively to the success of the
+company while developing essential skills that will aid in building a
+successful career.
+CAREER OBJECTIVE 
+EDUCATION
+2021 - 2025
+UNIVERSITY OF SICENCE / VIETNAM NATIONAL
+UNIVERSITYNLP/AI INTERN
+ASPIRING AND MOTIVATED [YOUR PROFESSION/FIELD] SEEKING AN
+INTERNSHIP POSITION TO LEVERAGE ACADEMIC KNOWLEDGE AND
+HANDS-ON SKILLS IN A PRACTICAL WORK ENVIRONMENT. EAGER TO
+CONTRIBUTE TO [COMPANY NAME] AND LEARN FROM EXPERIENCED
+PROFESSIONALS IN ORDER TO TRANSITION SEAMLESSLY INTO A FULL-
+TIME ROLE UPON SUCCESSFUL COMPLETION OF THE INTERNSHIP
+PROGRAM.IM M E D IA T E LY  O B JE C T IV E
+FU T U R E  O B JE C T IV E
+I aspire to become a proficient AI Engineer with a specialized focus
+on Natural Language Processing (NLP) and Machine Learning. My
+objectives include: 
+1. NLP Mastery: Delve deeper into NLP, focusing on sentiment
+analysis, language generation, and translation. Contribute to
+advancements in AI-driven linguistic applications. 
+2. Machine Learning Proficiency: Master various ML algorithms and
+their applications. Design and implement robust machine learning
+systems for real-world challenges.
+ 3. Continuous Learning: Stay updated on the latest AI and ML
+advancements. Actively engage in research, collaboration, and
+open-source projects. 
+4. Industry Impact: Apply skills to create intelligent systems that
+enhance processes and solve complex problems. Contribute to the
+positive evolution of technology and its impact on society.
+Faculty: Knowledge Technology ( NLP Programing ,Crypto and
+securitySOFT SKILLTECHNICAL SKILL
+Read, understand and synthesize
+documents
+Problem-Solving Skill
+Can use GPT4 and another AI
+Good Team Colabration 
+Time ManagementHOBBIESEXPERIENCE
+12/2023 - 1/ 2024
+10/2023 - 12/2023PROTECT DATA
+Designed and implemented a secure Cloud Firestore database for student grades.
+Developed RSA encryption for data security during input and decryption for display.
+Enabled students to view decrypted grades securely.
+Integrated Firebase Admin SDK for seamless cloud data interaction.
+Implemented role-based login for teachers and students.
+Added functionality for rounding grades to specified decimal places.
+Ensured system security and counteracted potential attacks.
+Prepared comprehensive user guides and project documentation.
+Reading Article : 
+LEARNING PERSONALIZED STORY EVALUATION.
+Literature Review: Conducted thorough literature review on "LEARNING PERSONALIZED STORY
+EVALUATION."
+Abstract Analysis: Summarized key contributions and insights from the abstract.
+Section Summaries: Provided concise summaries of major sections, including Introduction, Related
+Work, and PERSE Model.
+Table and Figure Insights: Extracted relevant information from tables and figures, such as datasets and
+model architectures.
+Experimental Results: Analyzed and summarized experimental results, comparisons, and analyses.
+Model Comparison: Compared PERSE with other language models and a baseline on the Per-MPST
+dataset.
+Image Description: Generated detailed image descriptions using DALL·E.
+Task-Specific Queries: Addressed specific questions on dataset details, evaluation issues, and paper
+sections.Reading Book
+Watching Movies
+Play Footballs, badminton,
+baseball.
+collab with colleagues and
+friends
+SOCAIL
+nguyenthianhoa21
+Trịnh Hoàng An
+h_anzhoa.594
+Description: Implemented a text classification model using Support Vector Machines (SVM).
+Explored the impact of hyperparameters (C, kernel types) and feature representation techniques
+(TF-IDF with varying max-features) on model performance. Conducted in-depth analysis and
+visualization to optimize SVM for efficient and accurate text categorization.
+Key Achievements:
+Developed SVM models with different kernels for text classification.
+Explored hyperparameter tuning to enhance model accuracy.
+Investigated the influence of TF-IDF features on computational efficiency.
+Presented results through visualizations and insights.
+Skills Demonstrated: Machine Learning, Natural Language Processing, Hyperparameter Tuning, Text
+Classification, Python, Scikit-learn.Text Classification with model-processing
+10/2023 - 12/2023 Link Github : https://github.com/nguyenthianhoa21/Protect-Data
+ Link Github :https://github.com/nguyenthianhoa21/-Model-processing Link Github https://github.com/nguyenthianhoa21/LEARNING-PERSONALIZED-STORY-EVALUATION

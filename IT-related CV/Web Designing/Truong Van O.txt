@@ -1,0 +1,31 @@
+Truong Van O
+456 Maple Street, City, State, Zip
+Phone: 012-345-6789
+Email: o@example.com
+
+Objective:
+Creative and detail-oriented Web Designer with a passion for crafting visually appealing and user-friendly websites. Proficient in front-end development technologies and experienced in graphic design. Seeking opportunities to leverage my skills and creativity to deliver exceptional web experiences.
+
+Education:
+Bachelor of Fine Arts in Web Design
+University XYZ, City, State
+Graduated: May 20XX
+
+Skills:
+
+Proficient in HTML, CSS, and JavaScript for front-end web development
+Strong understanding of responsive design principles and frameworks like Bootstrap
+Experience with graphic design tools such as Adobe Photoshop and Illustrator
+Familiarity with UI/UX principles and best practices
+Knowledge of web accessibility standards and techniques
+Excellent attention to detail and ability to translate client requirements into design concepts
+Strong communication and collaboration skills
+Experience:
+Web Design Intern
+Digital Agency ABC, City, State
+June 20XX - August 20XX
+
+Assisted in the creation of wireframes and mockups for client websites
+Implemented responsive design techniques to ensure cross-browser compatibility
+Collaborated with developers to translate design concepts into functional web pages
+Conducted usability testing and gathered feedback for website improvements

@@ -1,0 +1,31 @@
+Le Gia Q
+123 Oak Avenue, City, State, Zip
+Phone: 987-654-3210
+Email: q@example.com
+
+Objective:
+Dynamic and innovative Web Designer with a passion for creating intuitive and visually stunning web experiences. Proficient in front-end development and graphic design, with a focus on user-centric design principles. Seeking opportunities to contribute my skills and expertise to cutting-edge web projects.
+
+Education:
+Bachelor of Arts in Web Design
+University MNO, City, State
+Graduated: May 20XX
+
+Skills:
+
+Proficient in HTML, CSS, and JavaScript for front-end web development
+Strong understanding of responsive design and mobile-first development
+Experience with graphic design software such as Adobe Creative Suite
+Familiarity with UX/UI design principles and wireframing tools like Adobe XD
+Knowledge of SEO best practices and web accessibility standards
+Excellent attention to detail and ability to deliver high-quality designs
+Strong problem-solving and analytical skills
+Experience:
+Web Design Intern
+Digital Agency MNO, City, State
+June 20XX - August 20XX
+
+Assisted in the design and development of client websites from concept to launch
+Conducted user research and usability testing to inform design decisions
+Collaborated with developers to implement responsive and interactive features
+Contributed to brainstorming sessions and design critiques to improve project outcomes

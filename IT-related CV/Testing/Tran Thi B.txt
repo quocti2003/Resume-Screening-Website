@@ -1,0 +1,40 @@
+Tran Thi B
+456 Elm Street, City, State, Zip
+789-012-3456
+email@example.com
+
+Objective:
+Detail-oriented Quality Assurance Engineer with 5+ years of experience in manual and automated testing. Proficient in test planning, test case design, and execution. Skilled in using various testing tools and technologies. Seeking to apply my expertise in ensuring the quality and reliability of software products.
+
+Education:
+Bachelor of Science in Computer Science
+University LMN, City, State
+Graduated: May 20XX
+
+Skills:
+- Strong understanding of software testing concepts and methodologies
+- Proficient in manual and automated testing techniques
+- Experience with test automation tools such as Selenium WebDriver, JUnit, and TestNG
+- Knowledgeable in programming languages like Java and Python for test automation scripting
+- Familiarity with bug tracking systems like JIRA for defect management
+- Ability to create comprehensive test plans and test cases
+- Excellent problem-solving and analytical skills
+- Effective communication and collaboration abilities
+
+Experience:
+QA Engineer
+XYZ Software Company, City, State
+August 20XX - Present
+- Designed and executed test plans and test cases for web and mobile applications
+- Developed automated test scripts using Selenium WebDriver and integrated them into CI/CD pipelines
+- Collaborated closely with development teams to identify and resolve defects
+- Conducted performance testing and load testing to ensure application scalability
+- Provided training and mentorship to junior QA team members
+
+Software Tester
+UVW Tech Solutions, City, State
+March 20XX - July 20XX
+- Conducted manual testing of software products, identifying and documenting defects
+- Assisted in the creation and maintenance of test documentation including test plans and test cases
+- Participated in user acceptance testing (UAT) phases, ensuring alignment with business requirements
+- Worked closely with cross-functional teams to ensure timely delivery of high-quality software releases

@@ -1,0 +1,32 @@
+HOANG VAN E
+123 Pine Street, City, State, Zip
+Phone: 567-890-1234
+Email: van.e@example.com
+
+Objective:
+Innovative DevOps Engineer with a strong background in system administration, automation, and cloud technologies. Proficient in designing, deploying, and managing scalable and reliable infrastructure. Seeking challenging opportunities to contribute my expertise to transformative projects.
+
+Education:
+Bachelor of Science in Computer Science
+University XYZ, City, State
+Graduated: May 20XX
+
+Skills:
+- Linux server administration
+- Configuration management (Ansible, Chef)
+- Containerization (Docker, Kubernetes)
+- Cloud platforms (AWS, Azure)
+- CI/CD tools (Jenkins, Travis CI)
+- Infrastructure as code (Terraform)
+- Version control (Git)
+- Scripting (Bash, Python)
+
+Experience:
+DevOps Engineer
+Tech Startup EFG, City, State
+June 20XX - Present
+- Implemented CI/CD pipelines for automated software delivery
+- Managed cloud infrastructure using Terraform and AWS services
+- Orchestrated Docker containers with Kubernetes for scalable applications
+- Automated system configurations with Ansible playbooks
+- Monitored and optimized system performance with Prometheus and Grafana

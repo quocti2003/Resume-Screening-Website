@@ -1,0 +1,31 @@
+NGUYEN THI L
+456 Elm Street, City, State, Zip
+Phone: 567-890-1234
+Email: thil@example.com
+
+Objective:
+Results-driven Java Developer with a passion for building scalable and maintainable software solutions. Skilled in Java, Spring Framework, Hibernate, and SQL. Seeking an opportunity to leverage my technical expertise and contribute to cutting-edge projects.
+
+Education:
+Bachelor of Science in Computer Science
+University LMN, City, State
+Graduated: May 20XX
+
+Skills:
+- Proficient in Java programming language for backend development
+- Strong understanding of Spring Framework and Spring Boot for building enterprise applications
+- Experience with Hibernate ORM for database interactions and SQL for data manipulation
+- Familiarity with RESTful web services development and microservices architecture
+- Knowledge of Git for version control and Jenkins for continuous integration
+- Excellent problem-solving and analytical abilities
+- Strong communication and collaboration skills
+
+Experience:
+Java Developer
+XYZ Software Solutions, City, State
+June 20XX - Present
+- Developed scalable software solutions using Java and Spring Framework
+- Collaborated with cross-functional teams to deliver high-quality software products
+- Conducted code reviews and provided technical guidance to team members
+- Implemented continuous integration and deployment pipelines using Jenkins
+- Assisted in troubleshooting and resolving technical issues in production environments

@@ -1,0 +1,31 @@
+TRAN VAN M
+789 Maple Street, City, State, Zip
+Phone: 678-901-2345
+Email: vanm@example.com
+
+Objective:
+Motivated Java Developer with a proven track record of delivering high-quality software solutions. Proficient in Java, Spring Framework, Hibernate, and SQL. Seeking opportunities to apply my technical skills and contribute to innovative projects.
+
+Education:
+Bachelor of Science in Computer Science
+University MNO, City, State
+Graduated: May 20XX
+
+Skills:
+- Proficient in Java programming language for backend development
+- Strong understanding of Spring Framework and Spring Boot for building enterprise applications
+- Experience with Hibernate ORM for database interactions and SQL for data manipulation
+- Familiarity with RESTful web services development and microservices architecture
+- Knowledge of Git for version control and Jenkins for continuous integration
+- Excellent problem-solving and analytical abilities
+- Strong communication and collaboration skills
+
+Experience:
+Java Developer
+Tech Startup MNO, City, State
+June 20XX - Present
+- Designed and developed scalable software solutions using Java and Spring Framework
+- Collaborated with cross-functional teams to deliver high-quality software products
+- Conducted code reviews and provided technical guidance to junior developers
+- Implemented continuous integration and deployment pipelines using Jenkins
+- Assisted in troubleshooting and resolving technical issues in production environments

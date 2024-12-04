@@ -1,0 +1,32 @@
+NGUYEN VAN A
+123 Main Street, City, State, Zip
+Phone: 123-456-7890
+Email: van.a@example.com
+
+Objective:
+Motivated DevOps Engineer with a background in system administration and cloud technologies. Experienced in building and maintaining CI/CD pipelines, automating infrastructure, and managing containerized environments. Seeking opportunities to contribute to the development and deployment of innovative software solutions.
+
+Education:
+Bachelor of Science in Computer Science
+University XYZ, City, State
+Graduated: May 20XX
+
+Skills:
+- Linux administration
+- Configuration management (Ansible, Puppet)
+- Containerization (Docker, Kubernetes)
+- Cloud platforms (AWS, Azure)
+- CI/CD tools (Jenkins, GitLab CI)
+- Infrastructure as code (Terraform)
+- Version control (Git)
+- Scripting (Bash, Python)
+
+Experience:
+DevOps Engineer
+Tech Startup XYZ, City, State
+June 20XX - Present
+- Implemented CI/CD pipelines for automated software delivery
+- Managed cloud infrastructure using Terraform and AWS services
+- Orchestrated Docker containers with Kubernetes for scalable applications
+- Automated system configurations with Ansible playbooks
+- Monitored system performance and reliability with Prometheus and Grafana

@@ -1,0 +1,31 @@
+Ho Thi P
+789 Elm Street, City, State, Zip
+Phone: 123-456-7890
+Email: p@example.com
+
+Objective:
+Innovative and creative Web Designer passionate about creating engaging and user-centric web experiences. Proficient in front-end development and graphic design, with a keen eye for detail. Seeking opportunities to contribute my skills and expertise to dynamic web projects.
+
+Education:
+Bachelor of Science in Web Design and Development
+University JKL, City, State
+Graduated: May 20XX
+
+Skills:
+
+Proficient in HTML5, CSS3, and JavaScript for front-end web development
+Strong understanding of responsive design principles and frameworks like Foundation
+Experience with graphic design tools such as Adobe XD and Sketch
+Familiarity with UI/UX design principles and best practices
+Knowledge of web accessibility standards and SEO techniques
+Excellent problem-solving abilities and ability to work under pressure
+Effective communication and collaboration skills
+Experience:
+Junior Web Designer
+Creative Studio XYZ, City, State
+September 20XX - Present
+
+Designed and developed user-friendly interfaces for client websites
+Implemented animations and interactive elements to enhance user engagement
+Conducted user research and gathered feedback for iterative design improvements
+Collaborated with cross-functional teams to ensure project success

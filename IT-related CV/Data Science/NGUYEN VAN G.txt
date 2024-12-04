@@ -1,0 +1,34 @@
+NGUYEN VAN G
+456 Oak Street, City, State, Zip
+Phone: 567-890-1234
+Email: vang@example.com
+
+Objective:
+Detail-oriented Data Scientist with a strong background in statistical analysis and machine learning. Experienced in data preprocessing, modeling, and visualization. Seeking opportunities to apply my expertise and contribute to impactful projects.
+
+Education:
+Master of Science in Data Science
+University UVW, City, State
+Graduated: May 20XX
+
+Bachelor of Science in Computer Science
+University GHI, City, State
+Graduated: May 20XX
+
+Skills:
+- Proficient in Python and R programming languages for data analysis and machine learning
+- Strong understanding of statistical concepts and hypothesis testing
+- Experience with data manipulation and analysis using pandas, NumPy, and scikit-learn
+- Familiarity with data visualization libraries such as Matplotlib, Seaborn, and Plotly
+- Knowledge of SQL for data querying and database management
+- Excellent problem-solving and analytical abilities
+- Effective communication and teamwork skills
+
+Experience:
+Data Scientist
+Tech Startup GHI, City, State
+June 20XX - Present
+- Conducted exploratory data analysis to identify patterns and insights in large datasets
+- Developed machine learning models for predictive analytics and decision support
+- Created visualizations to communicate findings and recommendations to stakeholders
+- Collaborated with cross-functional teams to drive data-driven decision-making processes
